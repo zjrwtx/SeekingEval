@@ -13,4 +13,4 @@ By continuously discovering new task opportunities and refining existing ones, t
 
 ## Status
 
-🚧 call for contributor!!!.
+🚧 call for contributors!!!.
